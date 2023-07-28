@@ -1,5 +1,5 @@
 {
-    "name": "laravel/dusk",
+    "name": "kayrah87/legacy-dusk",
     "description": "Laravel Dusk provides simple end-to-end testing and browser automation.",
     "keywords": ["laravel", "testing", "webdriver"],
     "license": "MIT",
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^7.4 | 8.0",
         "ext-json": "*",
         "ext-zip": "*",
         "guzzlehttp/guzzle": "^7.2",
